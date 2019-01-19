@@ -1,0 +1,2 @@
+# simpleDelegateEventUse
+最简单的unity中使用事件委托的脚本演示
